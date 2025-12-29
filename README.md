@@ -68,10 +68,7 @@ behavioral_screensaver/
 ├── README.md           # Project documentation
 └── notes.md            # Reflections and learnings
 
-
-
 ---
-
 
 ## Onboarding Timeline
 
