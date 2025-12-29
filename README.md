@@ -61,12 +61,11 @@ The project is considered successful when it includes:
 
 ## Project Structure
 
-```text
 behavioral_screensaver/
-├── screensaver.py      # Main application
-├── quotes.py           # Quote data
-├── README.md           # Project documentation
-└── notes.md            # Reflections and learnings
+├── screensaver.py # Main application
+├── quotes.py # Quote data
+├── README.md # Project documentation
+└── notes.md # Reflections and learnings
 
 ---
 
@@ -156,4 +155,7 @@ behavioral_screensaver/
 
 - Codebase is clean and understandable
 - Documentation accurately reflects implementation
+
+```
+
 ```
