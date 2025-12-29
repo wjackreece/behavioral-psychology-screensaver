@@ -61,12 +61,12 @@ The project is considered successful when it includes:
 
 ## Project Structure
 
+```text
 behavioral_screensaver/
-│
-├── screensaver.py # Main application
-├── quotes.py # Quote data
-├── README.md # Project documentation
-└── notes.md # Reflections and learnings
+├── screensaver.py      # Main application
+├── quotes.py           # Quote data
+├── README.md           # Project documentation
+└── notes.md            # Reflections and learnings
 
 ---
 
@@ -198,3 +198,4 @@ The project onboarding is complete when:
 ---
 
 **Status:** Ready to Begin
+```
