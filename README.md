@@ -1,161 +1,60 @@
-# Project Onboarding: Behavioral Psychology Quote Screensaver
+# Behavioral Psychology Quote Screensaver
+
+### Project Onboarding Guide
 
 ---
 
-## Overview
+## 📌 Overview
 
-This document serves as a complete onboarding guide for building a dynamic, fullscreen application that displays rotating quotes from philosophers and thinkers in behavioral psychology. It is designed for immediate use and structured execution.
+This document provides a structured onboarding experience for the **Behavioral Psychology Quote Screensaver** project. It defines goals, expectations, milestones, and success criteria to support focused execution and intentional learning.
 
----
-
-## Mission
-
-Design and build a dynamic screensaver-style application that displays curated quotes related to behavioral psychology.
-
-The project focuses on:
-
-- End-to-end software development practice
-- Calm, intentional user experience design
-- Clear code structure and maintainability
-- Applying focused, high-leverage engineering time
+This project will guide you through building a dynamic, fullscreen Python application that displays rotating quotes from philosophers and behavioral psychology thinkers.
 
 ---
 
-## Success Criteria
+## 🎯 Project Mission
 
-The project is considered successful when it includes:
+**Primary Objective**  
+Design and implement a screensaver-style application that:
 
-- A fullscreen application that displays rotating quotes
-- Clear separation between data and application logic
-- Readable, maintainable code
-- A consistent, distraction-free interface
-- Basic project documentation
+- Displays curated quotes related to behavioral psychology
+- Runs in fullscreen mode
+- Rotates quotes automatically at a fixed interval
+- Maintains a minimal, distraction-free user experience
 
----
-
-## Scope Definition
-
-### Included
-
-- Python-based fullscreen application
-- Quote display with author attribution
-- Automatic quote rotation on a timer
-- Minimalist visual design
-
-### Excluded
-
-- Operating system–level screensaver integration
-- User accounts or cloud services
-- Complex animation systems
+This project emphasizes clarity, maintainability, and engineering discipline.
 
 ---
 
-## Technology Stack
+## 🧠 Success Criteria
 
-- **Language:** Python
-- **UI Framework:** Tkinter
-- **Data Storage:** Python data structures (with optional JSON migration)
-- **Version Control:** Git (recommended)
+The project is considered successful when all of the following are met:
 
----
-
-## Project Structure
-
-behavioral_screensaver/
-├── screensaver.py # Main application
-├── quotes.py # Quote data
-├── README.md # Project documentation
-└── notes.md # Reflections and learnings
+- A working fullscreen application that displays dynamic quotes
+- Separation of data and application logic
+- Clean, readable, and maintainable code
+- A complete project README with execution instructions
+- Reflection and documentation of design decisions
 
 ---
 
-## Onboarding Timeline
+## 🛠️ Technology Stack
+
+| Component       | Technology                                       |
+| --------------- | ------------------------------------------------ |
+| Language        | Python                                           |
+| UI Framework    | Tkinter                                          |
+| Data Storage    | Python data structures (optional JSON migration) |
+| Version Control | Git & GitHub                                     |
 
 ---
 
-### Week 1: Environment Setup
+## 📁 Repository Structure
 
-**Objectives**
-
-- Establish a working development environment
-- Launch a fullscreen application window
-
-**Tasks**
-
-- Confirm Python installation
-- Create project directory and files
-- Implement a fullscreen window with a neutral background
-- Add a reliable exit mechanism (Escape key)
-
-**Completion Check**
-
-- Application launches and exits correctly
-
----
-
-### Week 2: Core Functionality
-
-**Objectives**
-
-- Display quotes dynamically
-- Separate data from application logic
-
-**Tasks**
-
-- Create `quotes.py`
-- Add at least 10 quotes with authors
-- Implement random quote selection
-- Display quote text and attribution
-- Rotate quotes on a fixed time interval
-
-**Completion Check**
-
-- Quotes rotate correctly
-- Code structure is clear and intentional
-
----
-
-### Week 3: Interface Refinement
-
-**Objectives**
-
-- Improve readability and visual balance
-- Ensure calm and consistent presentation
-
-**Tasks**
-
-- Adjust font size and spacing
-- Enable text wrapping
-- Center content vertically and horizontally
-- Apply a restrained color palette
-- Test readability at various distances
-
-**Completion Check**
-
-- Content is easy to read and visually balanced
-
----
-
-### Week 4: Code Quality and Documentation
-
-**Objectives**
-
-- Improve maintainability
-- Document decisions and learning
-
-**Tasks**
-
-- Add comments where intent is not obvious
-- Remove unused code
-- Refactor for clarity
-- Write a `README.md`
-- Document lessons learned in `notes.md`
-
-**Completion Check**
-
-- Codebase is clean and understandable
-- Documentation accurately reflects implementation
-
-```
-
+```text
+behavioral-psychology-screensaver/
+├── screensaver.py        # Main application logic
+├── quotes.py             # Quote data
+├── README.md             # Project onboarding and documentation
+└── notes.md              # Reflections and implementation learnings
 ```
