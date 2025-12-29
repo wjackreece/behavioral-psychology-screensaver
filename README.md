@@ -61,7 +61,7 @@ The project is considered successful when it includes:
 
 ## Project Structure
 
-````text
+```text
 behavioral_screensaver/
 ├── screensaver.py      # Main application
 ├── quotes.py           # Quote data
@@ -73,7 +73,6 @@ behavioral_screensaver/
 ---
 
 
-```markdown
 ## Onboarding Timeline
 
 ---
@@ -160,4 +159,4 @@ behavioral_screensaver/
 
 - Codebase is clean and understandable
 - Documentation accurately reflects implementation
-````
+```
