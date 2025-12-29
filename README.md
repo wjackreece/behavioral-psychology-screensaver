@@ -61,16 +61,20 @@ The project is considered successful when it includes:
 
 ## Project Structure
 
-```text
+````text
 behavioral_screensaver/
 ├── screensaver.py      # Main application
 ├── quotes.py           # Quote data
 ├── README.md           # Project documentation
 └── notes.md            # Reflections and learnings
 
+
 ---
 
+```markdown
 ## Onboarding Timeline
+
+---
 
 ### Week 1: Environment Setup
 
@@ -154,49 +158,4 @@ behavioral_screensaver/
 
 - Codebase is clean and understandable
 - Documentation accurately reflects implementation
-
----
-
-## Engineering Principles Practiced
-
-- Leverage through reusable skills
-- Ownership of the development process
-- Iterative improvement
-- Focused scope management
-- Intentional design decisions
-
----
-
-## Optional Enhancements
-
-- Quote categorization
-- Time-based visual themes
-- Subtle visual transitions
-- External data files (JSON)
-- Additional content modes
-
----
-
-## Completion Criteria
-
-The project onboarding is complete when:
-
-- The application runs reliably
-- The codebase is maintainable
-- Design decisions are documented
-- Stated objectives are met
-
----
-
-## Start Checklist
-
-- [ ] Python installed
-- [ ] Project folder created
-- [ ] `screensaver.py` initialized
-- [ ] First fullscreen window running
-
----
-
-**Status:** Ready to Begin
-
-```
+````
